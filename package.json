@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "This is my portfolio",
+  "main": "app.js",
+  "dependencies": {
+    "express": "",
+    
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierre1590/portfolio.git"
+  },
+  "author": "Piero Sabino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pierre1590/portfolio/issues"
+  },
+  "homepage": "https://github.com/pierre1590/portfolio#readme"
+}
